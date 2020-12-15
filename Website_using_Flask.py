@@ -1,5 +1,5 @@
 from keras.models import load_model
-import cv2
+import cv
 import numpy as np
 import time
 from flask import Flask, render_template, Response
